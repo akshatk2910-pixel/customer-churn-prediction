@@ -17,10 +17,10 @@ Telco Customer Churn Dataset
 - Threshold Tuning
 
 ## Results
-- Accuracy: 80%
-- Precision: 60.8%
-- Recall: 69.0%
-- F1 Score: 64.7%
+- Accuracy: ~80%
+- Precision: 60%
+- Recall: 68%
+- F1 Score: 63.6%
 
 ## Technologies Used
 - Python
